@@ -1,0 +1,5 @@
+.idea
+/logs
+dispatcher/target
+*.iml
+*/resources
